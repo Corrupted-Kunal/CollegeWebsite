@@ -1,2 +1,2 @@
 # CollegeWebsite
-Developed my first college website 
+Developed my first college website.
